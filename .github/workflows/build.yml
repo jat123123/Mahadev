@@ -21,3 +21,4 @@ name: Build APK
             with:
               name: package
               path: bin/*.apk
+              
